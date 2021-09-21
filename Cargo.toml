@@ -1,0 +1,8 @@
+
+[workspace]
+members = [
+    "xay-core",
+]
+
+[patch.crates-io]
+tungstenite = { git = "https://github.com/LYF1999/tungstenite-rs.git" }
